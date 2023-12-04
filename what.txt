@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd elasticsearch-8.8.2
+./bin/elasticsearch
+
+
